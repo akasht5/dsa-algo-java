@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ebbf391-c7ba-44fc-8a98-852fd2f74a09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/akash/Alphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/akash/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Armstrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/CountNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/akash/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basics/com/akash/Alphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basics/com/akash/Alphabet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +96,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Alphabet">
-    <configuration name="Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akash.Alphabet" />
+  <component name="RunManager" selected="Application.ReverseArray">
+    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.Armstrong" />
       <module name="basics" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.akash.Largest" />
+    <configuration name="Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.Max" />
       <module name="basics" />
       <extension name="coverage">
         <pattern>
@@ -113,26 +123,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.akash.Main" />
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.Prime" />
       <module name="basics" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.ReverseArray" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akash.Swap" />
+      <module name="basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Largest" />
-      <item itemvalue="Application.Alphabet" />
+      <item itemvalue="Application.Swap" />
+      <item itemvalue="Application.Prime" />
+      <item itemvalue="Application.Armstrong" />
+      <item itemvalue="Application.Max" />
+      <item itemvalue="Application.ReverseArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Alphabet" />
-        <item itemvalue="Application.Largest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.Max" />
+        <item itemvalue="Application.Swap" />
+        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.Armstrong" />
       </list>
     </recent_temporary>
   </component>
